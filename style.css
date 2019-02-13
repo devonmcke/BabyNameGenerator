@@ -1,0 +1,57 @@
+h1{
+    font-size:3em;
+    color: black;
+    text-align: center;
+    font-weight: bold; 
+    text-shadow: 2px 2px pink;
+
+}
+/* #name-wrapper p,
+#name-wrapper input {
+    display: inline;
+
+} */
+#name-wrapper {
+    text-align: center;
+}
+#last-name{
+    text-align: center;
+
+}
+body{
+    background-color:  #FAFAFA;
+    
+}
+
+#radio-wrapper{
+   text-align: center;
+}
+
+#button{
+    text-align: center;
+ 
+}
+
+#button button{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid orange;
+    font-size: 15px;
+
+
+}
+
+#generated-name{
+    font-size:3em;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.responsive {
+    width: 100%;
+  height: auto;
+}
+
